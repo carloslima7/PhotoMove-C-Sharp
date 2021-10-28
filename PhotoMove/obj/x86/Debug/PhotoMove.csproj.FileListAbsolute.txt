@@ -1,0 +1,18 @@
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\bin\Debug\PhotoMove.exe
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\bin\Debug\PhotoMove.pdb
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.Properties.Resources.resources
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.csproj.GenerateResource.Cache
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.exe
+c:\users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.pdb
+C:\Users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.csprojResolveAssemblyReference.cache
+C:\Users\carlos.alberto\documents\visual studio 2010\Projects\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.PhotoMove.resources
+G:\IT\Desenvolvidos Full Fit\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.exe
+G:\IT\Desenvolvidos Full Fit\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.pdb
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.exe
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.pdb
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\bin\Debug\PhotoMove.exe
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\bin\Debug\PhotoMove.pdb
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.csprojResolveAssemblyReference.cache
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.PhotoMove.resources
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.Properties.Resources.resources
+C:\Users\carlos.alberto\Desktop\PhotoMove\PhotoMove\obj\x86\Debug\PhotoMove.csproj.GenerateResource.Cache
